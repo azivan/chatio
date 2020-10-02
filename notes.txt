@@ -1,0 +1,15 @@
+### NOTES ###
+
+2.) Chat server and clients
+Init a thread for recieve and send messages / user
+Name specific users connected with a readLine in terminal to differ
+Look into semaphores or monitor objects to achieve this.
+
+3.) Chat server with memory
+Save messages to StringArray in server?
+
+4.) Chat server with on file memory
+Save to file and if the server is restarted, client checks in local folder for chat history
+
+5.) Store messages in a local DB
+Same as above?
