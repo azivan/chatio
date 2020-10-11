@@ -13,9 +13,9 @@
 
 ## 2. Chat Server and clients
 ### Description
-3 applications, 1 chat server and 2x(or more) chat clients.
+~~3 applications, 1 chat server and 2x(or more) chat clients.~~
 
-~~Same setup as before but server now accepts connections from 2 or more clients.~~
+~~Same setup as before but server now accepts connections from 2 or more clients.~~~
 
 Messages written in client 1 are sent to all other clients.
 
