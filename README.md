@@ -1,21 +1,21 @@
 # chatIO
-~~## 1. EchoServer & Client
-~~### Description
-~~2 applications chat server and one client client.
+## 1. EchoServer & Client~
+### Description
+~~2 applications chat server and one client client.~~
 
-~~Client can connect to the server using a socket and fixed ip.
+~~Client can connect to the server using a socket and fixed ip.~~
 
-~~Messages typed in client terminal will be captured and sent to server
+~~Messages typed in client terminal will be captured and sent to server~~
 
-~~Server receives messages and responds by sending the message back to client Client displays the message again as it is received from the server.
+~~Server receives messages and responds by sending the message back to client Client displays the message again as it is received from the server.~~
 
-~~Written in JAVA only, no requirements of any fancy ui. All input output can be done with system println and readers in the terminal.
+~~Written in JAVA only, no requirements of any fancy ui. All input output can be done with system println and readers in the terminal.~~
 
 ## 2. Chat Server and clients
 ### Description
 3 applications, 1 chat server and 2x(or more) chat clients.
 
-~~Same setup as before but server now accepts connections from 2 or more clients.
+~~Same setup as before but server now accepts connections from 2 or more clients.~~
 
 Messages written in client 1 are sent to all other clients.
 
